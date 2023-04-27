@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Welcome to my world",
+      "complete": false
+    },
+    {
+      "id": 0.6479494914734523,
+      "title": "React",
+      "complete": false
+    },
+    {
+      "id": 0.15100398759898925,
+      "title": "react practise",
+      "complete": false
+    }
+  ]
+}
